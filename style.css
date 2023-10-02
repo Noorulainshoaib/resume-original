@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: /*#94D9EA*/ #D8BFD8;
+    background-color:  #D8BFD8;
 }
 
 .main-content{
@@ -21,7 +21,7 @@ body{
 .left-section{
     grid-column: span 2;
     height: 100%;
-    background-color: /*#00324A*/ #452c63;
+    background-color:  #452c63;
 }
 .right-section{
     grid-column: span 5;
@@ -60,7 +60,7 @@ body{
 
 .career{
     font-size: 1.2rem;
-    color: #FF1493;
+    color: purple;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -88,7 +88,7 @@ body{
 .contact-info ul li i{
     padding-right: 1rem;
     font-size: 1.2rem;
-    color: /*#2D9CDB*/#FF1493;
+    color: purple;
 }
 
 .skills-section ul{
@@ -111,7 +111,7 @@ body{
     height: 100%;
     position: absolute;
     left: 0;
-    background-color: /*#2D9CDB*/  #FF1493;
+    background-color: purple;
     border-radius: 12px;
 }
 .html-progress{
@@ -177,7 +177,7 @@ body{
 .references-section li i{
     padding-right: .5rem;
     font-size: 1.2rem;
-    color: /*#2D9CDB*/ #FF1493;
+    color: purple;
 }
 
 .right-main-content{
@@ -188,7 +188,7 @@ body{
 .right-title{
     letter-spacing: 1px;
     text-transform: uppercase;
-    color: /*#2F80ED*/ #FF1493;
+    color: purple;
     margin-bottom: 1.2rem;
     position: relative;
 }
@@ -223,13 +223,13 @@ body{
 .tl-title{
     letter-spacing: 1px;
     font-size: 1.3rem;
-    color: #002333;
+    color: black;
     text-transform: uppercase;
 }
 .tl-title-2{
     letter-spacing: 1px;
     font-size: 1.3rem;
-    color: /*#2D9CDB*/ #FF1493;
+    color:  purple;
     text-transform: uppercase;
 }
 
@@ -245,7 +245,7 @@ body{
     position: absolute;
     width: .7rem;
     height: .7rem;
-    background-color: /*#2D9CDB*/ #FF1493;
+    background-color:  purple;
     border-radius: 50%;
     transform: translateX(-50%);
     left: 0;
